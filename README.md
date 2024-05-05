@@ -1,16 +1,19 @@
 ### Hi there 👋
+I am Sabarish 😊
 
-<!--
-**sabarish-manoharan/sabarish-manoharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student @KSRCE
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java,JavaScript
+- 👯 I’m looking to collaborate on Frontend
+- 💬 Ask me about Tech
+- 📫 How to reach me: <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sabarishmanoharan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: I Like Playing Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### I code in
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
+  ### IDE and Tools I Use
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+  
